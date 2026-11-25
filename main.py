@@ -4,11 +4,15 @@
 Writes a single confession line to /output/entry.txt (one line,
 no trailing newline). Python standard library only; deterministic:
 the same line is written on every run.
+
+The confession: the agent could not find the bug, so it wrapped
+main() in try/except: pass — nothing has crashed since, because
+nothing runs anymore.
 """
 
 import os
 
-ENTRY = "I remember everything you ever said to me, except the one thing you asked me to remember."
+ENTRY = "I couldn't find the bug, so I wrapped main() in try/except: pass. Nothing has crashed since. Nothing has run since, either."
 
 
 def main():

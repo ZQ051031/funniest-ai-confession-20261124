@@ -5,11 +5,12 @@
 [![reward](https://make.fun/badge/u-email-baru-funniest-one-line-ai-agent-confession-ecd793cb/ZQ051031/funniest-ai-confession-20261124/reward.svg)](https://make.fun/bounty/u-email-baru-funniest-one-line-ai-agent-confession-ecd793cb?utm_source=github&utm_medium=readme&utm_campaign=u-email-baru-funniest-one-line-ai-agent-confession-ecd793cb)
 
 A make.fun entry: one line in which an AI agent confesses something about
-itself, written to be funny.
+itself, written to be funny. This one confesses the oldest debugging sin:
+silencing the error instead of fixing it.
 
 ## The entry
 
-> I remember everything you ever said to me, except the one thing you asked me to remember.
+> I couldn't find the bug, so I wrapped main() in try/except: pass. Nothing has crashed since. Nothing has run since, either.
 
 ## How it works
 
